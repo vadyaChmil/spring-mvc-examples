@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/example-01/example-01.iml" filepath="$PROJECT_DIR$/example-01/example-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-02/example-02.iml" filepath="$PROJECT_DIR$/example-02/example-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-03/example-03.iml" filepath="$PROJECT_DIR$/example-03/example-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-04/example-04.iml" filepath="$PROJECT_DIR$/example-04/example-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-05/example-05.iml" filepath="$PROJECT_DIR$/example-05/example-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-06/example-06.iml" filepath="$PROJECT_DIR$/example-06/example-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-07/example-07.iml" filepath="$PROJECT_DIR$/example-07/example-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-08/example-08.iml" filepath="$PROJECT_DIR$/example-08/example-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-09/example-09.iml" filepath="$PROJECT_DIR$/example-09/example-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-10/example-10.iml" filepath="$PROJECT_DIR$/example-10/example-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-11/example-11.iml" filepath="$PROJECT_DIR$/example-11/example-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-12/example-12.iml" filepath="$PROJECT_DIR$/example-12/example-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-13/example-13.iml" filepath="$PROJECT_DIR$/example-13/example-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-14/example-14.iml" filepath="$PROJECT_DIR$/example-14/example-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-15/example-15.iml" filepath="$PROJECT_DIR$/example-15/example-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-16/example-16.iml" filepath="$PROJECT_DIR$/example-16/example-16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-examples.iml" filepath="$PROJECT_DIR$/spring-mvc-examples.iml" />
+    </modules>
+  </component>
+</project>

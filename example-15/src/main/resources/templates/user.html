@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+<head>
+    <meta charset="UTF-8"/>
+    <title>User page</title>
+
+<!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Editor msdt:dt="string">Migration Account</mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Editor>
+<mso:Title msdt:dt="string">User page</mso:Title>
+<mso:Order msdt:dt="string">1715800.00000000</mso:Order>
+<mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Author msdt:dt="string">Migration Account</mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Author>
+<mso:ContentTypeId msdt:dt="string">0x0101000E112BECF43BD84C899862275C8B401C</mso:ContentTypeId>
+</mso:CustomDocumentProperties>
+</xml><![endif]-->
+</head>
+<body>
+
+<h1>Information about user</h1>
+
+<!-- th:action overrides action for plain HTML -->
+<form action="users.html" th:action="@{/user(id=${user.id})}" method="get" th:method="post">
+    <label for="name">
+        Name
+    </label>
+    <!-- th:value places value from model to the input -->
+    <input id="name" name="name" value="Leo" th:value="${user.name}"/>
+
+    <label for="age">
+        Age
+    </label>
+    <input id="age" name="age" value="15" th:value="${user.age}"/>
+
+    <button type="submit">Save</button>
+</form>
+
+</body>
+</html>

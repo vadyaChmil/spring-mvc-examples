@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.luxoft.spring.mvc</groupId>
+    <artifactId>spring-mvc-examples</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>spring-mvc-examples</name>
+    <description>Spring MVC - Root for all examples</description>
+
+    <modules>
+        <module>example-01</module>
+        <module>example-02</module>
+        <module>example-03</module>
+        <module>example-04</module>
+        <module>example-05</module>
+        <module>example-06</module>
+        <module>example-07</module>
+        <module>example-08</module>
+        <module>example-09</module>
+        <module>example-10</module>
+        <module>example-11</module>
+        <module>example-12</module>
+        <module>example-13</module>
+        <module>example-14</module>
+        <module>example-15</module>
+        <module>example-16</module>
+    </modules>
+</project>
